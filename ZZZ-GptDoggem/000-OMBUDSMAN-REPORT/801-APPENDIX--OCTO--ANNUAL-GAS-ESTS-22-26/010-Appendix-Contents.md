@@ -1,0 +1,29 @@
+# Appendix # - Octppus Own Annusl Esimates 2022-2026
+
+This appendix shows Octopus' own estimatesof annusl gas usage. These are, it is understoox, the basis upon which estimated bills were produced.
+
+Contents:
+
+Gas Bills provided as indicative of annual estimates used by Octopus.
+
+XXXMCC add esimates again here to make the double the national average point?
+
+* 2022-07-27
+* 2023-12-22
+* 2024-04-29
+* 2025-03-29
+* 2025-09-17
+* 2025-12-17
+* 2026-02-23
+
+* XXXMCC
+* XXXMCC
+* XXXMCC
+
+# Specifics wrt the Refund Complaint (RC)
+
+With particulsr respect to the Refund Issue ::: theeis is a clear indication that the greates bias with respoect to over-estimates was in the earliest years (2022, 2023) of Octopus adminisration of the account,when rates rose to highs of - 16p per kWh before ghe application of Govt. subsidies.
+
+It stands to reason, therefore, that a refund based solely on the short period (@ -6p/kWh) before the customer reading means the customer is effectively payimg Octopuz for their bloated account estimates.
+
+Tgis is clearly an unacceptable state of affairs.

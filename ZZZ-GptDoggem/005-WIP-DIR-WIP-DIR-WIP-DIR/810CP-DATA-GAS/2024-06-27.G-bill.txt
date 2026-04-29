@@ -1,0 +1,243 @@
+                 Mark Collins-Cope                                                    Your Account Number: A-A7CD64F4
+                 28 Waldegrave Road                                                   Bill Reference: 223431349 (28th June 2024)
+                 London
+                 W5 3HT
+                                                                                      Your estimated annual cost
+                                                                                      £1,188.12 a year for electricity
+                                                                                      £1,696.15 a year for gas
+                                                                                      This is an estimate based on your expected
+                                                                                      annual energy usage, and your current tariff
+                                                                                      rates, charges and discounts, including VAT.
+
+ Your energy account                                                                  Actual billings will vary depending on your
+                                                                                      usage and tariff selection. More information
+                                                                                      about your current tariff can be found
+                                                                                      overleaf.
+ 27th May 2024 - 27th June 2024
+                                                                                      Could you pay less?
+   On 27th May 2024 your previous balance was                    -£3,275.97           Remember - it might be worth thinking
+                                                                                      about switching your tariff or supplier.
+                                                                                      For your electricity (on meter point 2000000755375)
+
+ 1. We have charged you                                                               You’re on our cheapest electricity tariff of
+ Electricity                 26th May 2024 - 25th June 2024           - £86.65
+                                                                                      its kind. You could save £68.68 a year by
+                                                                                      switching to Octopus 12M Fixed. You may
+ Gas           (estimated)26th March 2024 - 31st March 2024           - £42.32
+                                                                                      need to change how you pay or your meter
+ Gas           (estimated)   1st April 2024 - 25th June 2024         - £287.37        setup, but contact our team if you'd like to
+                                                                                      switch.
+                                                                                      For your gas (on meter point 3358702307)
+ 2. You have paid                                                                     You’re on our cheapest gas tariff of its kind.
+     Direct Debit collection - 28th May 2024                            + £300.00     You could save £110.37 a year by switching
+     Direct Debit collection - 25th June 2024                           + £300.00     to Octopus 12M Fixed. It may involve
+                                                                                      changing how you pay, your meter setup or
+                                                                                      different terms to your current tariff.
+                                                                                      Contact our team to find out more.
+   On 27th June 2024 your new balance is                         -£3,092.31
+                                                                                      Emergency numbers
+                                                                                      Smell gas? Call 0800 111 999
+                                                                                      Power cut? Call 105 to get help
+                                                                                      Your Electricity Distributor is: SSE Power
+                                                                                      Distribution (0800 300999)
+
+
+
+
+Octopus Energy Limited                  Registered Office                                    Registered in England & Wales No. 09263424
+W octopus.energy                        UK House, 5th floor, 164-182 Oxford Street,                              VAT Number: 358672751
+E hello@octopus.energy                  London, W1D 1NN
+P 0808 164 1088
+  Your Charges In Detail
+                                                        1        801        100      About Your Tariff
+   Electricity              Supply number        S          2000000755375            Prices do not include VAT unless otherwise noted.
+
+  Supply Address: 28 Waldegrave Road, London, W5 3HT                                 Electricity
+  Postcode area alpha identifier: N                                                  Tariff Name                     Flexible Octopus
+  Flexible Octopus (26th May 2024 - 25th June 2024)                                  Product Type                    Variable
+                                                                                     Payment Method                  Direct Debit
+  Energy Charges for Meter 20M1027011
+                                                                                     Unit Rate                       23.48p/kWh
+  26th May 2024               15607.9 Smart meter reading                            Standing Charge                 58.35p/day (£212.98/year)
+  26th Jun 2024               15882.3 Smart meter reading                            Price Guaranteed Until          Not applicable
+                                                                                     Early Exit Fee                  None
+  Energy Used                 274.4 kWh @ 23.48p/kWh                      £64.43
+                                                                                     Estimated Annual Usage          3911.8 kWh
+  Standing Charge             31 days @ 58.35p/day                         £18.09
+
+  Subtotal of charges before VAT                                          £82.52
+
+  VAT @ 5.00%                                                               £4.13
+
+  Total Electricity Charges                                               £86.65
+
+
+
+
+  Gas               Meter Point Reference:                             3358702307
+
+
+  Supply Address: 28 Waldegrave Road, London, W5 3HT
+                                                                                     About Your Tariff
+  Flexible Octopus (26th March 2024 - 31st March 2024)                               Prices do not include VAT unless otherwise noted.
+
+  Energy Charges for Meter G4A02607210001
+                                                                                     Gas
+  26th March 2024             63064.2 Estimated reading                              Tariff Name                     Flexible Octopus
+                                                                                     Product Type                    Variable
+  1st April 2024              63112.6 Estimated reading
+                                                                                     Payment Method                  Direct Debit
+  Consumption                 48.5 Units (m3)                                        Unit Rate                       7.16p/kWh
+  Energy Used*                541.0 kWh @ 7.16p/kWh                       £38.73     Standing Charge                 26.16p/day
+                                                                                                                     (£95.48/year)
+  Standing Charge             6 days @ 26.16p/day                           £1.57    Price Guaranteed Until          Not applicable
+                                                                                     Early Exit Fee                  None
+  Subtotal of charges before VAT                                          £40.30     Estimated Annual
+                                                                                     Usage*                          26001 kWh
+  VAT @ 5.00%                                                              £2.02
+
+  Total Gas Charges                                                       £42.32       * Your energy usage is calculated from your gas
+                                                                                       consumption using a standard industry formula:
+                                                                                                 Units Consumed (Cubic Metres)
+                                                                                        × Volume Correction (for temperature & pressure)
+                                                                                            × Calorific Value (energy in each m3 of gas)
+                                                                                                      ÷ 3.6 (convert from joules)
+                                                                                                          ≈ Usage (in kWh)
+                                                                                       For you:
+                                                                                       48.5 × 1.02264 × 39.3† ÷ 3.6 = 541.0
+
+                                                                                       †
+                                                                                           Average calorific value shown to one decimal place
+
+
+
+
+Octopus Energy Limited                       Registered Office                                          Registered in England & Wales No. 09263424
+W octopus.energy                             UK House, 5th floor, 164-182 Oxford Street,                                    VAT Number: 358672751
+E hello@octopus.energy                       London, W1D 1NN
+P 0808 164 1088
+  Your Charges In Detail
+                                                                                     About Your Tariff
+  Gas               Meter Point Reference:                           3358702307      Prices do not include VAT unless otherwise noted.
+
+
+  Supply Address: 28 Waldegrave Road, London, W5 3HT                                 Gas
+                                                                                     Tariff Name                     Flexible Octopus
+  Flexible Octopus (1st April 2024 - 25th June 2024)
+                                                                                     Product Type                    Variable
+  Energy Charges for Meter G4A02607210001                                            Payment Method                  Direct Debit
+                                                                                     Unit Rate                       5.83p/kWh
+  1st April 2024            63112.6 Estimated reading
+                                                                                     Standing Charge                 27.34p/day
+  26th June 2024            63498.1 Estimated reading                                                                (£99.79/year)
+                                                                                     Price Guaranteed Until          Not applicable
+  Consumption               385.4 Units (m3)
+                                                                                     Early Exit Fee                  None
+  Energy Used*              4291.9 kWh @ 5.83p/kWh                       £250.18     Estimated Annual
+                                                                                     Usage*                          26001 kWh
+  Standing Charge           86 days @ 27.34p/day                          £23.51
+
+  Subtotal of charges before VAT                                                       * Your energy usage is calculated from your gas
+                                                                        £273.69
+                                                                                       consumption using a standard industry formula:
+  VAT @ 5.00%                                                             £13.68                 Units Consumed (Cubic Metres)
+                                                                                        × Volume Correction (for temperature & pressure)
+  Total Gas Charges                                                     £287.37
+                                                                                            × Calorific Value (energy in each m3 of gas)
+                                                                                                      ÷ 3.6 (convert from joules)
+                                                                       £416.34                            ≈ Usage (in kWh)
+  Total charges for bill
+                                                                                       For you:
+                                                                                       385.4 × 1.02264 × 39.2† ÷ 3.6 = 4291.9
+
+                                                                                       †
+                                                                                           Average calorific value shown to one decimal place
+
+
+
+
+Octopus Energy Limited                       Registered Office                                          Registered in England & Wales No. 09263424
+W octopus.energy                             UK House, 5th floor, 164-182 Oxford Street,                                    VAT Number: 358672751
+E hello@octopus.energy                       London, W1D 1NN
+P 0808 164 1088
+                                                                                Your Account Number: A-A7CD64F4
+ Your Avro repayment                                                            Bill Reference: 223431349 (28th June 2024)
+
+ plan
+                                                                                What is this?
+                                                                                When you transferred to Octopus from
+                                                                                Avro Energy, we carried over the balance of
+ 27th May 2024 - 27th June 2024                                                 your final Avro bill to allow you to pay it off
+                                                                                in instalments. Here you can see any
+                                                                                payments you made during the statement
+                                                                                period, and any outstanding balance
+ You have paid                                                                  remaining to pay.
+
+ No debt repayments have been made in this period.
+
+
+   Remaining to pay                                           £293.44
+
+
+
+
+Octopus Energy Limited            Registered Office                                   Registered in England & Wales No. 09263424
+W octopus.energy                  UK House, 5th floor, 164-182 Oxford Street,                            VAT Number: 358672751
+E hello@octopus.energy            London, W1D 1NN
+P 0808 164 1088
+ Contacting us                                                          Your Account Number: A-A7CD64F4
+                                                                        Bill Reference: 223431349 (27th June 2024)
+ Contact us by email and get a response within hours.
+ Of course, if you need to you can also get a hold of us
+                                                                        Advice and complaints
+ on the phone, or even by post.
+                                                                        Contact Citizens Advice if you need help with an
+ Email: hello@octopus.energy                                            energy problem - for example with your bills or
+ Phone: 0808 164 1088                                                   meters, or if you're struggling to pay for the energy
+                                                                        you use. They're the official source of free and
+ Trading office: UK House, 5th floor, 164-182 Oxford
+                                                                        independent energy advice and support.
+ Street, London, W1D 1NN
+                                                                        Go to: citizensadvice.org.uk/energy or call their
+ Please don't hesitate to contact us if you've any
+                                                                        consumer service on 0808 223 1133 Mon to Fri,
+ questions, comments, or complaints.
+                                                                        9am-5pm
+
+ How much did you use?                                                  Or, if you live in Scotland, you can contact
+                                                                        energyadvice.scot for independent help.
+ Your average electricity usage during this bill period
+ was 8.85 kWh/day.                                                      Go to: energyadvice.scot/email-us, or call their
+                                                                        customer service on 0808 196 8660 Monday to
+ Your average gas usage during this bill period was
+                                                                        Friday, 9am to 5pm.
+ 52.53 kWh/day.
+                                                                        If you feel that our service has not met your
+ Please visit our website for advice on how to save
+                                                                        expectations, please get in touch so we can put
+ energy in your home.
+                                                                        things right:
+                                                                        First: Contact our team.
+                                                                        Then: If an advisor is not able to resolve your query,
+                                                                        you can ask for it to be escalated to a specialist or
+                                                                        team leader as appropriate.
+                                                                        Finally: If you're still not happy with our decision, you
+                                                                        can contact our Operations Manager for an
+                                                                        independent review, and you will receive a reply
+                                                                        within 5 working days.
+                                                                        If you have followed the above steps, but your
+                                                                        complaint remains unresolved after 8 weeks you can
+                                                                        contact the Energy Ombudsman on 0330 440 1624
+                                                                        or at www.energyombudsman.org. This is a free and
+                                                                        independent service whose decisions we must abide
+                                                                        by.
+                                                                        You can read our complaints policy on our website.
+
+
+
+
+Octopus Energy Limited              Registered Office                                    Registered in England & Wales No. 09263424
+W octopus.energy                    UK House, 5th floor, 164-182 Oxford Street,                             VAT Number: 358672751
+E hello@octopus.energy              London, W1D 1NN
+P 0808 164 1088
+

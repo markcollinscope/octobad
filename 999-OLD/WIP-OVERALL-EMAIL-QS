@@ -1,0 +1,252 @@
+========================
+INSERT — AVRO CORRECTION (TO INTEGRATE)
+========================
+
+This relates to the correction applied to the Avro balance following my earlier complaint.
+
+A correction of £831.49 was applied, as confirmed in correspondence dated 17/02/2023.
+
+This reduced the balance from £1,124.93 to £293.44.
+
+This demonstrates that the original Avro balance used by Octopus was not reliable.
+
+However, despite this correction, Octopus continued to treat the remaining balance as a valid debt, without providing any explanation of how either the original or corrected figures were derived.
+
+(This section to be integrated into AVRO complaint draft section later.)
+
+---
+
+========================
+TBD / HOLD ITEMS (WORKING)
+========================
+
+1. Previous Complaint References
+- Decide whether to include earlier complaint numbers / references
+- Likely location: appendix or escalation version, not main document
+
+2. Full Refund Background Expansion
+- Insert detailed timeline of readings, estimates, and correction points
+- Include evidence references (emails, screenshots, bills)
+
+3. Direct Debit Expansion (if required)
+- Add detailed narrative of DD increases, cancellations, and overrides
+- Include specific dates and amounts
+
+4. Financial Quantification
+- Confirm and insert estimated financial disadvantage (£XXX)
+- Ensure consistent figure across sections
+
+5. Evidence Integration
+- Link specific claims to:
+  - emails
+  - bills
+  - app screenshots
+- Assign reference IDs if needed (Ref A, B, C...)
+
+6. Meter Behaviour / Accuracy
+- Decide whether to escalate meter reliability concern
+- May require separate section or technical query
+
+7. Final Question Tightening (Post-Response)
+- Reduce question set further after Octopus reply
+- Focus on gaps / inconsistencies in their answers
+
+========================
+END TBD
+========================
+
+========================
+BACKGROUND
+========================
+
+--- AVRO ---
+
+When Octopus took over my account from Avro, I was presented with a final Avro bill (Ref: ***) which did not make sense on its face.
+
+The bill showed a headline balance of approximately £1,124.93 “DR”, which Octopus treated as a debt owed by me.
+
+However, the detailed figures on the bill were as follows:
+
+- (-) £789.00 — Balance brought forward  
+- (+) £87.XX — New energy charges  
+- (-) £269.03 — Payment made by me  
+
+There was also an additional line item described as an “admin fee” of (-) £269.03, the meaning of which has never been explained.
+
+Interpreting the figures using their natural signs:
+
+- Charges (+) increase customer liability  
+- Payments / credits (-) reduce customer liability  
+
+The net position from the figures shown is approximately:
+
+(-789.00 + 87.XX - 269.03) ≈ -£950.65
+
+This indicates a substantial credit balance, not a debt.
+
+It later became apparent that the £1,124.93 figure corresponds to the sum of the absolute values of the figures, ignoring their signs.
+
+This is not a valid accounting approach. A payment cannot be added to a charge to produce a liability figure.
+
+Despite this, Octopus treated the account as being in debt.
+
+No clear explanation has ever been provided as to how this figure was derived.
+
+---
+
+Following this, Octopus applied a credit of £831.49, reducing the assumed debt but still leaving a residual balance of £293.44.
+
+This residual amount was then added to my account in November 2024 without consultation or explanation.
+
+During this period:
+
+- I raised concerns and requested clarification  
+- Octopus requested information from me about Avro  
+- No coherent explanation was provided  
+
+There was also pressure to increase Direct Debit payments during this time, despite the balance being unclear and disputed.
+
+---
+
+--- REFUND ---
+
+Up until summer 2025 all readings used by Octopus for billing were estimates.
+
+I later provided an actual meter reading on 16 June 2025 (with photographic evidence).
+
+The rebilling was applied in the statement dated 30 June 2025, covering the period 1 October 2024 to 15 June 2025.
+
+Prior to the correction, billing for the period December 2024 to March 2025 was based entirely on estimated readings and showed materially elevated usage levels.
+
+Given that this period coincided with very high gas unit rates, I was concerned that any refund be calculated correctly across the full period of overestimation.
+
+I requested a clear explanation of how the refund was calculated.
+
+An initial response indicated that the full period and range of rates would be taken into account.
+
+However, no clear explanation of the calculation methodology was subsequently provided.
+
+The resulting rebilling process was complex and required significant effort to reconstruct.
+
+---
+
+========================
+QUESTIONS
+========================
+
+--- AVRO ---
+
+1. How was the corrective credit of £831.49 applied to my account calculated?
+
+2. Why did Octopus continue to treat the Avro balance as a debt after applying a substantial correction?
+
+3. What verification or due diligence was performed on Avro balances prior to adopting them?
+
+4. What was the formal mechanism of the Avro → Octopus account handover, and what data was relied upon?
+
+5. Why was the residual balance of £293.44 added to my account in November 2024 without consultation or explanation?
+
+---
+
+--- REFUND ---
+
+6. Please describe the methodology used to calculate refunds following overestimated usage.
+
+7. Please explain how unit rates are determined and applied when recalculating charges across a period spanning multiple tariffs.
+
+8. Please confirm whether original tariff rates at the time of consumption are used in recalculation, or whether an alternative method is applied.
+
+9. Please explain the basis on which the correction was applied from October 2024 onwards, and not earlier.
+
+10. When were the elevated consumption estimates first generated, and what methodology was used to produce them?
+
+11. Please provide a full reconciliation of the rebilling process, including for each affected billing period:
+   - original units, rates and charges  
+   - reversed amounts  
+   - rebilled units, rates and charges  
+
+12. Please confirm that:
+   - all reversed charges were credited at the original rates  
+   - the rebilling process has not resulted in any financial disadvantage to me  
+
+13. Please provide a clear explanation of the calculation process used, as this has not been provided in prior correspondence.
+
+---
+
+--- DIRECT DEBIT / METER ---
+
+14. Please confirm whether all reasonable steps have been taken to obtain an actual meter reading at least once every 12 months, and provide the dates and types of readings obtained.
+
+15. Please explain how Direct Debit levels were determined during the period in which estimated readings were used.
+
+16. Please explain how Direct Debit levels were reviewed and adjusted following receipt of actual meter readings.
+
+17. Please provide the installation, inspection, and maintenance history of the gas meter associated with this account.
+
+---
+
+--- COMPLAINTS PROCESS ---
+
+18. Please confirm how each of the issues I have raised has been addressed.
+
+19. Please confirm whether your complaints process permits a complaint to be closed where substantive issues remain unresolved, and under what conditions.
+
+---
+
+========================
+COMPLAINT DRAFT
+========================
+
+--- AVRO ---
+
+I consider that the Avro balance was incorrectly interpreted and applied.
+
+A substantial correction was later made, indicating that the original figure was unreliable.
+
+Despite this, a residual balance of £293.44 was still applied to my account without explanation or agreement.
+
+This resulted in the creation of an artificial debt and unnecessary financial pressure.
+
+---
+
+--- REFUND ---
+
+I believe that the refund process has not been applied transparently or fairly.
+
+I requested a clear explanation of the calculation methodology and did not receive one.
+
+The rebilling process was sufficiently complex that I was required to reconstruct it myself.
+
+Based on this, I am concerned that the rates applied do not accurately reflect those in force during the period of overestimation.
+
+I therefore believe that I may have been financially disadvantaged.
+
+---
+
+--- DIRECT DEBIT ---
+
+Direct Debit levels appear to have been set based on inflated estimated consumption.
+
+This resulted in sustained overpayment and financial pressure during a period where the underlying account balance was unclear and disputed.
+
+I am concerned that insufficient steps were taken to obtain accurate readings and to adjust Direct Debit levels appropriately.
+
+---
+
+--- OVERALL ---
+
+Taken together, these issues demonstrate:
+
+- lack of transparency in billing and correction processes  
+- reliance on inaccurate data  
+- failure to validate transferred balances  
+- failure to provide clear explanations when requested  
+
+I have therefore been required to invest significant time in reconstructing my account and remain concerned that I have been financially disadvantaged.
+
+---
+
+========================
+END
+========================
+📋 COPY ENDS HERE

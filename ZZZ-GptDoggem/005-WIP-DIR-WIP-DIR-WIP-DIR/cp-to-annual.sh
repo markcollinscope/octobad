@@ -1,0 +1,24 @@
+
+CPFROMDIR=810CP-DATA-GAS;
+CPTODIR=ANNUAL-VALUE-USED-GAS
+
+mkdir -p $CPTODIR
+ls -l $CPTODIR
+
+for i in \
+2022-07-27 \
+2023-12-22 \
+2024-04-29 \
+2025-03-29 \
+2025-09-17 \
+2025-12-17 \
+2026-02-23 \
+2026-03-29; 
+do
+	BILL=$CPFROMDIR/$i.G-bill.pdf
+	CMD="cp $BILL $CPTODIR"
+	echo $CMD;
+	eval $CMD;
+	sleep 1; 
+done
+

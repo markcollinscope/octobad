@@ -1,0 +1,101 @@
+Your Charges In Detail
+
+About Your Tariff
+Gas
+Meter Point Reference:
+3358702307
+Prices do not include VAT unless otherwise noted.
+Gas
+Supply Address: 28 Waldegrave Road, London, W5 3HT
+Tariff NameFlexible Avro October
+2021 v1
+Product TypePayment MethodVariable
+Direct Debit
+
+### 58737.6 Estimated readingUnit Rate3.93p/kWh
+### 2nd April 202258770.6 Estimated readingStanding Charge24.87p/day
+### (£90.78/year)
+
+Consumption33.0 Units (m3)Price Guaranteed UntilEarly Exit FeeNot applicable
+None
+### Estimated Annual
+### Usage*26272 kWh
+
+### Flexible Avro (29th March 2022 - 1st April 2022)
+
+Energy Charges for Meter G4A02607210001
+### 29th March 2022Energy Used*364.7 kWh @ 3.93p/kWh£14.33
+### Standing Charge4 days @ 24.87p/day£0.99
+
+### Subtotal of charges before VAT£15.32
+### VAT @ 5.00%£0.77
+### Total Gas Charges£16.09
+
+Gas
+Meter Point Reference:
+3358702307
+Supply Address: 28 Waldegrave Road, London, W5 3HT
+* Your energy usage is calculated from your gas
+consumption using a standard industry formula:
+Units Consumed (Cubic Metres)
+× Volume Correction (for temperature & pressure)
+× Calorific Value (energy in each m3 of gas)
+÷ 3.6 (convert from joules)
+≈ Usage (in kWh)
+For you:
+33.0 × 1.02264 × 38.9† ÷ 3.6 = 364.7
+†
+Average calorific value shown to one decimal place
+
+
+### Flexible Avro (2nd April 2022 - 25th July 2022)
+### Energy Charges for Meter G4A02607210001
+### 2nd April 202258770.6 Estimated reading
+### 26th July 202259211.8 Estimated reading
+### Consumption441.2 Units (m3)
+### Energy Used*4950.8 kWh @ 7.12p/kWh
+### Standing Charge115 days @ 25.92p/day
+
+About Your Tariff
+Prices do not include VAT unless otherwise noted.
+### Subtotal of charges before VAT
+### £352.50
+### £29.81
+### £382.31
+### VAT @ 5.00%
+### £19.12
+
+Total Gas Charges
+Total charges for bill
+Gas
+Tariff NameFlexible Avro October
+2021 v1
+Product TypePayment MethodVariable
+Direct Debit
+Unit Rate7.12p/kWh
+£401.43Standing Charge25.92p/day
+(£94.61/year)
+£417.52Price Guaranteed UntilEarly Exit FeeNot applicable
+None
+Estimated Annual
+Usage*26272 kWh
+* Your energy usage is calculated from your gas
+consumption using a standard industry formula:
+Units Consumed (Cubic Metres)
+× Volume Correction (for temperature & pressure)
+× Calorific Value (energy in each m3 of gas)
+÷ 3.6 (convert from joules)
+≈ Usage (in kWh)
+For you:
+441.2 × 1.02264 × 39.5† ÷ 3.6 = 4950.8
+†
+Octopus Energy Limited
+W octopus.energy
+E hello@octopus.energy
+P 0808 164 1088
+Registered Office
+UK House, 5th floor, 164-182 Oxford Street,
+London, W1D 1NN
+Average calorific value shown to one decimal place
+Registered in England & Wales No. 09263424
+VAT Number: 358672751

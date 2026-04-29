@@ -1,0 +1,355 @@
+              Mark Collins-Cope                                                    Your Account Number: A-A7CD64F4
+              28 Waldegrave Road                                                   Bill Reference: 180558155 (23rd Dec. 2023)
+              London
+              W5 3HT
+                                                                                   Your estimated annual cost
+                                                                                   £1,338.91 a year for electricity
+                                                                                   £2,075.11 a year for gas
+                                                                                   This is an estimate based on your expected
+                                                                                   annual energy usage, and your current tariff
+                                                                                   rates, charges and discounts, including VAT.
+
+ Your energy account                                                               Actual billings will vary depending on your
+                                                                                   usage and tariff selection. More information
+                                                                                   about your current tariff can be found
+                                                                                   overleaf.
+ 27th Nov. 2023 - 22nd Dec. 2023
+                                                                                   Could you pay less?
+   On 27th Nov. 2023 your previous balance was                  -£893.67           Remember - it might be worth thinking
+                                                                                   about switching your tariff or supplier.
+                                                                                   For your electricity (on meter point 2000000755375)
+
+ 1. We have charged you                                                            You’re already on our cheapest electricity
+ Gas        (estimated)   1st April 2023 - 30th June 2023         - £491.26
+                                                                                   tariff for your usage, but you could save an
+                                                                                   extra £49.95 a year by paying with Direct
+ Gas        (estimated)    1st July 2023 - 3rd Aug. 2023            - £62.13
+                                                                                   Debit. You can set one up easily in your
+ Gas        (estimated)   4th Aug. 2023 - 14th Aug. 2023           - £20.06        online account.
+ Gas        (estimated) 15th Aug. 2023 - 30th Sept. 2023          - £106.83        For your gas (on meter point 3358702307)
+ Gas        (estimated)   1st Oct. 2023 - 25th Nov. 2023          - £307.17        You’re already on our cheapest gas tariff for
+                                                                                   your usage, but you could save an extra
+                                                                                   £65.67 a year by paying with Direct Debit.
+                                                                                   You can set one up easily in your online
+   On 22nd Dec. 2023 your new balance is                      -£1,881.12           account.
+
+
+                                                                                   Emergency numbers
+   As you have no Direct Debit in place, your balance is due for
+   payment in 14 days. There are 5 ways you can pay, as detailed                   Smell gas? Call 0800 111 999
+   in this bill.                                                                   Power cut? Call 105 to get help
+
+
+   The Government Energy Price Guarantee limited the price per
+   unit for gas and electricity from October 2022 to July 2023, and
+   was applied to your bill automatically.
+
+
+
+
+Octopus Energy Limited               Registered Office                                    Registered in England & Wales No. 09263424
+W octopus.energy                     UK House, 5th floor, 164-182 Oxford Street,                              VAT Number: 358672751
+E hello@octopus.energy               London, W1D 1NN
+P 0808 164 1088
+  Your Charges In Detail
+                                                                                     About Your Tariff
+  Gas               Meter Point Reference:                           3358702307      Prices do not include VAT unless otherwise noted.
+
+
+  Supply Address: 28 Waldegrave Road, London, W5 3HT                                 Gas
+                                                                                     Tariff Name                     Flexible Octopus
+  Flexible Octopus (1st April 2023 - 30th June 2023)
+                                                                                     Product Type                    Variable
+  Energy Charges for Meter G4A02607210001                                            Payment Method                  Direct Debit
+                                                                                     Unit Rate                       12.10p/kWh
+  1st April 2023            61099.9 Estimated reading
+                                                                                     Standing Charge                 26.16p/day
+  1st July 2023             61503.1 Estimated reading                                                                (£95.49/year)
+                                                                                     Price Guaranteed Until          Not applicable
+  Consumption               403.2 Units (m3)
+                                                                                     Early Exit Fee                  None
+  Energy Used*              4478.1 kWh @ 12.10p/kWh                      £541.92     Estimated Annual
+                                                                                     Usage*                          26272 kWh
+  Energy Price Guarantee    4478.1 kWh @ 2.19p/kWh                      -£97.86
+
+  Standing Charge           91 days @ 26.16p/day                          £23.81       * Your energy usage is calculated from your gas
+                                                                                       consumption using a standard industry formula:
+  Subtotal of charges before VAT                                        £467.87                  Units Consumed (Cubic Metres)
+                                                                                        × Volume Correction (for temperature & pressure)
+  VAT @ 5.00%                                                             £23.39
+                                                                                            × Calorific Value (energy in each m3 of gas)
+  Total Gas Charges                                                     £491.26                       ÷ 3.6 (convert from joules)
+                                                                                                          ≈ Usage (in kWh)
+                                                                                       For you:
+                                                                                       403.2 × 1.02264 × 39.1† ÷ 3.6 = 4478.1
+  Gas               Meter Point Reference:                           3358702307
+                                                                                       †
+                                                                                           Average calorific value shown to one decimal place
+  Supply Address: 28 Waldegrave Road, London, W5 3HT
+
+  Flexible Octopus (1st July 2023 - 3rd August 2023)
+
+  Energy Charges for Meter G4A02607210001
+
+  1st July 2023             61503.1 Estimated reading
+                                                                                     About Your Tariff
+  4th Aug. 2023             61564.3 Estimated reading                                Prices do not include VAT unless otherwise noted.
+                                             3
+  Consumption               61.2 Units (m )
+                                                                                     Gas
+  Energy Used*              694.0 kWh @ 7.25p/kWh                        £50.28      Tariff Name                     Flexible Octopus
+                                                                                     Product Type                    Variable
+  Standing Charge           34 days @ 26.16p/day                           £8.89
+                                                                                     Payment Method                  Direct Debit
+  Subtotal of charges before VAT                                          £59.17     Unit Rate                       7.25p/kWh
+                                                                                     Standing Charge                 26.16p/day
+  VAT @ 5.00%                                                              £2.96                                     (£95.49/year)
+                                                                                     Price Guaranteed Until          Not applicable
+  Total Gas Charges                                                       £62.13
+                                                                                     Early Exit Fee                  None
+                                                                                     Estimated Annual
+                                                                                     Usage*                          26272 kWh
+
+
+                                                                                       * Your energy usage is calculated from your gas
+                                                                                       consumption using a standard industry formula:
+                                                                                                 Units Consumed (Cubic Metres)
+                                                                                        × Volume Correction (for temperature & pressure)
+                                                                                            × Calorific Value (energy in each m3 of gas)
+                                                                                                      ÷ 3.6 (convert from joules)
+                                                                                                          ≈ Usage (in kWh)
+                                                                                       For you:
+                                                                                       61.2 × 1.02264 × 39.9† ÷ 3.6 = 694.0
+
+                                                                                       †
+                                                                                           Average calorific value shown to one decimal place
+
+
+
+
+Octopus Energy Limited                       Registered Office                                          Registered in England & Wales No. 09263424
+W octopus.energy                             UK House, 5th floor, 164-182 Oxford Street,                                    VAT Number: 358672751
+E hello@octopus.energy                       London, W1D 1NN
+P 0808 164 1088
+  Your Charges In Detail
+                                                                                     About Your Tariff
+  Gas               Meter Point Reference:                           3358702307      Prices do not include VAT unless otherwise noted.
+
+
+  Supply Address: 28 Waldegrave Road, London, W5 3HT                                 Gas
+                                                                                     Tariff Name                     Flexible Octopus
+  Flexible Octopus (4th August 2023 - 14th August 2023)
+                                                                                     Product Type                    Variable
+  Energy Charges for Meter G4A02607210001                                            Payment Method                  Non-Direct Debit
+                                                                                     Unit Rate                       7.40p/kWh
+  4th Aug. 2023             61564.3 Estimated reading
+                                                                                     Standing Charge                 31.38p/day
+  15th Aug. 2023            61582.9 Estimated reading                                                                (£114.53/year)
+                                                                                     Price Guaranteed Until          Not applicable
+  Consumption               18.6 Units (m3)
+                                                                                     Early Exit Fee                  None
+  Energy Used*              211.3 kWh @ 7.40p/kWh                         £15.65     Estimated Annual
+                                                                                     Usage*                          26272 kWh
+  Standing Charge           11 days @ 31.38p/day                           £3.45
+
+  Subtotal of charges before VAT                                                       * Your energy usage is calculated from your gas
+                                                                          £19.10
+                                                                                       consumption using a standard industry formula:
+  VAT @ 5.00%                                                              £0.96                 Units Consumed (Cubic Metres)
+                                                                                        × Volume Correction (for temperature & pressure)
+  Total Gas Charges                                                      £20.06
+                                                                                            × Calorific Value (energy in each m3 of gas)
+                                                                                                      ÷ 3.6 (convert from joules)
+                                                                                                          ≈ Usage (in kWh)
+                                                                                       For you:
+  Gas               Meter Point Reference:                           3358702307        18.6 × 1.02264 × 39.9† ÷ 3.6 = 211.3
+
+  Supply Address: 28 Waldegrave Road, London, W5 3HT                                   †
+                                                                                           Average calorific value shown to one decimal place
+
+  Flexible Octopus (15th August 2023 - 30th September 2023)
+
+  Energy Charges for Meter G4A02607210001
+
+  15th Aug. 2023            61582.9 Estimated reading
+
+  1st Oct. 2023             61691.9 Estimated reading
+                                                                                     About Your Tariff
+  Consumption               108.9 Units (m3)                                         Prices do not include VAT unless otherwise noted.
+
+  Energy Used*              1234.5 kWh @ 7.25p/kWh                       £89.44
+                                                                                     Gas
+  Standing Charge           47 days @ 26.16p/day                          £12.30     Tariff Name                     Flexible Octopus
+                                                                                     Product Type                    Variable
+  Subtotal of charges before VAT                                         £101.74     Payment Method                  Direct Debit
+  VAT @ 5.00%                                                                        Unit Rate                       7.25p/kWh
+                                                                           £5.09
+                                                                                     Standing Charge                 26.16p/day
+  Total Gas Charges                                                     £106.83                                      (£95.49/year)
+                                                                                     Price Guaranteed Until          Not applicable
+                                                                                     Early Exit Fee                  None
+                                                                                     Estimated Annual
+                                                                                     Usage*                          26272 kWh
+
+
+                                                                                       * Your energy usage is calculated from your gas
+                                                                                       consumption using a standard industry formula:
+                                                                                                 Units Consumed (Cubic Metres)
+                                                                                        × Volume Correction (for temperature & pressure)
+                                                                                            × Calorific Value (energy in each m3 of gas)
+                                                                                                      ÷ 3.6 (convert from joules)
+                                                                                                          ≈ Usage (in kWh)
+                                                                                       For you:
+                                                                                       108.9 × 1.02264 × 39.9† ÷ 3.6 = 1234.5
+
+                                                                                       †
+                                                                                           Average calorific value shown to one decimal place
+
+
+
+
+Octopus Energy Limited                       Registered Office                                          Registered in England & Wales No. 09263424
+W octopus.energy                             UK House, 5th floor, 164-182 Oxford Street,                                    VAT Number: 358672751
+E hello@octopus.energy                       London, W1D 1NN
+P 0808 164 1088
+  Your Charges In Detail
+                                                                                     About Your Tariff
+  Gas               Meter Point Reference:                           3358702307      Prices do not include VAT unless otherwise noted.
+
+
+  Supply Address: 28 Waldegrave Road, London, W5 3HT                                 Gas
+                                                                                     Tariff Name                     Flexible Octopus
+  Flexible Octopus (1st October 2023 - 25th November 2023)
+                                                                                     Product Type                    Variable
+  Energy Charges for Meter G4A02607210001                                            Payment Method                  Direct Debit
+                                                                                     Unit Rate                       6.66p/kWh
+  1st Oct. 2023             61691.9 Estimated reading
+                                                                                     Standing Charge                 26.16p/day
+  26th Nov. 2023            62065.7 Estimated reading                                                                (£95.49/year)
+                                                                                     Price Guaranteed Until          Not applicable
+  Consumption               373.8 Units (m3)
+                                                                                     Early Exit Fee                  None
+  Energy Used*              4173.0 kWh @ 6.66p/kWh                      £277.89      Estimated Annual
+                                                                                     Usage*                          26272 kWh
+  Standing Charge           56 days @ 26.16p/day                          £14.65
+
+  Subtotal of charges before VAT                                                       * Your energy usage is calculated from your gas
+                                                                        £292.54
+                                                                                       consumption using a standard industry formula:
+  VAT @ 5.00%                                                             £14.63                 Units Consumed (Cubic Metres)
+                                                                                        × Volume Correction (for temperature & pressure)
+  Total Gas Charges                                                     £307.17
+                                                                                            × Calorific Value (energy in each m3 of gas)
+                                                                                                      ÷ 3.6 (convert from joules)
+                                                                       £987.45                            ≈ Usage (in kWh)
+  Total charges for bill
+                                                                                       For you:
+                                                                                       373.8 × 1.02264 × 39.3† ÷ 3.6 = 4173.0
+
+                                                                                       †
+                                                                                           Average calorific value shown to one decimal place
+
+
+
+
+Octopus Energy Limited                       Registered Office                                          Registered in England & Wales No. 09263424
+W octopus.energy                             UK House, 5th floor, 164-182 Oxford Street,                                    VAT Number: 358672751
+E hello@octopus.energy                       London, W1D 1NN
+P 0808 164 1088
+                                                                                Your Account Number: A-A7CD64F4
+ Your Avro repayment                                                            Bill Reference: 180558155 (23rd Dec. 2023)
+
+ plan
+                                                                                What is this?
+                                                                                When you transferred to Octopus from
+                                                                                Avro Energy, we carried over the balance of
+ 27th Nov. 2023 - 22nd Dec. 2023                                                your final Avro bill to allow you to pay it off
+                                                                                in instalments. Here you can see any
+                                                                                payments you made during the statement
+                                                                                period, and any outstanding balance
+ You have paid                                                                  remaining to pay.
+
+ No debt repayments have been made in this period.
+
+
+   Remaining to pay                                           £293.44
+
+
+
+
+Octopus Energy Limited            Registered Office                                   Registered in England & Wales No. 09263424
+W octopus.energy                  UK House, 5th floor, 164-182 Oxford Street,                            VAT Number: 358672751
+E hello@octopus.energy            London, W1D 1NN
+P 0808 164 1088
+ Contacting us                                                                    Your Account Number: A-A7CD64F4
+                                                                                  Bill Reference: 180558155 (22nd Dec. 2023)
+ Contact us by email and get a response within hours.
+ Of course, if you need to you can also get a hold of us
+                                                                                  Advice and complaints
+ on the phone, or even by post.
+                                                                                  Contact Citizens Advice if you need help with an
+ Email: hello@octopus.energy                                                      energy problem - for example with your bills or
+ Phone: 0808 164 1088                                                             meters, or if you're struggling to pay for the energy
+                                                                                  you use. They're the official source of free and
+ Trading office: UK House, 5th floor, 164-182 Oxford
+                                                                                  independent energy advice and support.
+ Street, London, W1D 1NN
+                                                                                  Go to: citizensadvice.org.uk/energy or call their
+ Please don't hesitate to contact us if you've any
+                                                                                  consumer service on 0808 223 1133 Mon to Fri,
+ questions, comments, or complaints.
+                                                                                  9am-5pm
+
+ How much did you use?                                                            Or, if you live in Scotland, you can contact Advice
+                                                                                  Direct Scotland for independent help.
+ Your average gas usage during this bill period was
+                                                                                  Go to: advice.scot/contact-us, or call their customer
+ 45.15 kWh/day.
+                                                                                  service on 0808 800 9060 Monday to Friday, 9am to
+ Please visit our website for advice on how to save                               5pm.
+ energy in your home.
+                                                                                  If you feel that our service has not met your
+                                                                                  expectations, please get in touch so we can put
+                                                                                  things right:
+                                                                                  First: Contact our team.
+                                                                                  Then: If an advisor is not able to resolve your query,
+                                                                                  you can ask for it to be escalated to a specialist or
+                                                                                  team leader as appropriate.
+                                                                                  Finally: If you're still not happy with our decision, you
+                                                                                  can contact our Operations Manager for an
+                                                                                  independent review, and you will receive a reply
+                                                                                  within 5 working days.
+                                                                                  If you have followed the above steps, but your
+                                                                                  complaint remains unresolved after 8 weeks you can
+                                                                                  contact the Energy Ombudsman on 0330 440 1624
+                                                                                  or at www.energyombudsman.org. This is a free and
+                                                                                  independent service whose decisions we must abide
+                                                                                  by.
+ Your payment options                                                             You can read our complaints policy on our website.
+
+ Direct Debit                                                                   Credit or Debit Card
+
+ It’s easy to set up a monthly Direct Debit to keep on top of your energy       Visit us online at www.octopus.energy/payment to make a payment by
+ payments. Simply log on to your online account at www.octopus.energy           card. Alternatively you can pay by debit card at your local PayPoint with
+ to set your Direct Debit up now.                                               the barcode below.
+
+ Bank transfer                                                                  Cash
+
+ Pay us directly from your bank account. Make sure to enter your account        Simply take this barcode to your local PayPoint to pay by cash. It links to
+ number (A-A7CD64F4) as the payment reference. Our bank details -               your account so whatever you pay will be transferred to your account.
+ Account number: 44594118 & Sort Code: 40-05-30.
+
+
+
+ Cheque
+
+ Write your account number (A-A7CD64F4) on the back, make your
+ cheque payable to “Octopus Energy Ltd”, and post it to: Octopus
+ Energy, UK House, 5th floor, 164-182 Oxford Street, London, W1D 1NN.
+
+                                                                                                9826022001914532602
+Octopus Energy Limited                        Registered Office                                        Registered in England & Wales No. 09263424
+W octopus.energy                              UK House, 5th floor, 164-182 Oxford Street,                                    VAT Number: 358672751
+E hello@octopus.energy                        London, W1D 1NN
+P 0808 164 1088
+

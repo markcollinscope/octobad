@@ -1,0 +1,47 @@
+OLD -> NEW
+
+- 2.Avro/Avro final.pdf -> 01_AVRO/P01X01_avro-final-bill.pdf
+- 2.Avro/2.1-InitialCom+FinalAvroBill2022ish.pdf -> 01_AVRO/P01X02_initial-complaint-plus-final-bill.pdf
+- 2.Avro/octo1.email.2022-03.pdf -> 01_AVRO/P01X03_octopus-email-2022-03.pdf
+- 2.Avro/Octo1.app.pdf -> 01_AVRO/P01X04_octopus-app-export.pdf
+- 2.Avro/WTFAvroBalanceXfer.png -> 01_AVRO/P01X05_balance-transfer-screenshot.png
+- 2.Avro/991-OLD/2.2-OldComplaint.pdf -> 01_AVRO/P01X06_old-complaint.pdf
+- 2.Avro/2.1-Email+-Credit.md -> 01_AVRO/P01X07_credit-argument-notes.md
+- 2.Avro/2.1-X-Gemini Analysis of Final Avro Bill..md -> 01_AVRO/P01X08_analysis-notes.md
+- 2.Avro/AvroReappear-Octopus-energy-statement-2024-11-27.pdf -> 01_AVRO/P02X01_reappearance-statement-2024-11-27.pdf
+- 2.Avro/LargeChargesAfterAvro.png -> 01_AVRO/P02X02_large-charges-after-avro.png
+- 2.Avro/AvroDiscussionDeduction/avro-not-cleared-in-full12.2022.pdf -> 01_AVRO/P02X03_not-cleared-in-full-2022-12.pdf
+- 2.Avro/AvroDiscussionDeduction/AbsurdlyHighGas031122.pdf -> 01_AVRO/P03X01_absurdly-high-gas-031122.pdf
+- 2.Avro/AvroDiscussionDeduction/SentToOctopus031122.pdf -> 01_AVRO/P03X02_sent-to-octopus-031122.pdf
+- 1.DD/EvidenceDDViolationMay25/OctopusMay25ViolatingDD-Insructions.pdf -> 02_DD/P01X01_dd-violation-may25.pdf
+- 1.DD/Octo2NoResponse/Gmail - CLARIFICATION REQUIRESD IN WRITING PLEASE - Re_ FYI_ Your energy statement.pdf -> 02_DD/P01X02_clarification-required-thread.pdf
+- 1.DD/Octo2NoResponse/Gmail - FORMAL COMPLAINT - Re_ For Mark Collins-Cope_ an important update to your payments.pdf -> 02_DD/P01X03_formal-complaint-thread.pdf
+- 1.DD/Octo2NoResponse/DD-Email+.md -> 02_DD/P01X04_dd-addendum-draft.md
+- Sent-StructureComolaint.md -> 03_COMP/P01X01_structured-complaint-draft.md
+- XXX-EmailFsilures/Email Failures + Details.md -> 03_COMP/P02X01_email-failures-details.md
+- XXX-OTHER/stus.octo.20.03@13.55.md -> 03_COMP/P02X02_status-notes-2026-03-20.md
+- 3.Refund/GasRefindSummer2025.png -> 04_REFUND/P01X01_gas-refund-summer-2025.png
+- XXX-OTHER/OVOBILL2020MAY.pdf -> 99_REVIEW/R01_OVOBILL2020MAY.pdf
+- XXX-OTHER/Important Phrase Re Avro Account Reconciliation.md -> 99_REVIEW/R02_Important-Phrase-Re-Avro-Account-Reconciliation.md
+- XXX-OTHER/complaint-base.pdf -> 99_REVIEW/R03_complaint-base.pdf
+- XXX-EmailFsilures/voice commands.md -> 99_REVIEW/R04_voice-commands.md
+- ScreenMaster/.trashed-1776105933-Screenshot_20260315_023450.jpg -> 99_REVIEW/R05_-trashed-1776105933-Screenshot_20260315_023450.jpg
+- ScreenMaster/Screenshot_20260315_060707.jpg -> 99_REVIEW/R06_Screenshot_20260315_060707.jpg
+- ScreenMaster/Screenshot_20260315_024007.jpg -> 99_REVIEW/R07_Screenshot_20260315_024007.jpg
+- ScreenMaster/Screenshot_20260315_024231.jpg -> 99_REVIEW/R08_Screenshot_20260315_024231.jpg
+- ScreenMaster/Screenshot_20260315_024409.jpg -> 99_REVIEW/R09_Screenshot_20260315_024409.jpg
+- TBDRandomShitWrong/Screenshot_20260314-200209.png -> 99_REVIEW/R10_Screenshot_20260314-200209.png
+- TBDRandomShitWrong/Screenshot_20260314-200152.png -> 99_REVIEW/R11_Screenshot_20260314-200152.png
+- TBDRandomShitWrong/Screenshot_20260314-200132.png -> 99_REVIEW/R12_Screenshot_20260314-200132.png
+- TBDRandomShitWrong/Screenshot_20260314-200115.png -> 99_REVIEW/R13_Screenshot_20260314-200115.png
+- TBDRandomShitWrong/Screenshot_20260314-200040.png -> 99_REVIEW/R14_Screenshot_20260314-200040.png
+- TBDRandomShitWrong/Screenshot_20260314-200020.png -> 99_REVIEW/R15_Screenshot_20260314-200020.png
+- TBDRandomShitWrong/Screenshot_20260314-195930.png -> 99_REVIEW/R16_Screenshot_20260314-195930.png
+- TBDRandomShitWrong/Screenshot_20260314-195906.png -> 99_REVIEW/R17_Screenshot_20260314-195906.png
+- TBDRandomShitWrong/Screenshot_20260314-195857.png -> 99_REVIEW/R18_Screenshot_20260314-195857.png
+- TBDRandomShitWrong/Screenshot_20260314-195836.png -> 99_REVIEW/R19_Screenshot_20260314-195836.png
+- TBDRandomShitWrong/Screenshot_20260314-195822.png -> 99_REVIEW/R20_Screenshot_20260314-195822.png
+- TBDRandomShitWrong/Screenshot_20260314-195807.png -> 99_REVIEW/R21_Screenshot_20260314-195807.png
+- TBDRandomShitWrong/Screenshot_20260314-195702.png -> 99_REVIEW/R22_Screenshot_20260314-195702.png
+- TBDRandomShitWrong/Screenshot_20260314-195653.png -> 99_REVIEW/R23_Screenshot_20260314-195653.png
+- TBDRandomShitWrong/Screenshot_20260314-195603.png -> 99_REVIEW/R24_Screenshot_20260314-195603.png

@@ -1,0 +1,95 @@
+========================
+QB-REF-01 — REFUND METHODOLOGY
+========================
+
+1. Does Octopus Energy apply a standard methodology when calculating refunds arising from overestimated usage or billing corrections?
+
+2. If so, please describe this methodology in full.
+
+3. In particular, how does Octopus determine the unit rate(s) applied when recalculating charges for the affected period?
+
+4. Where the period in question spans multiple tariff rates or price changes, how are these variations taken into account in the refund calculation?
+
+5. Does Octopus recalculate charges using the original tariff rates applicable at the time of consumption, or is an alternative approach used?
+
+6. Are standing charges and VAT recalculated as part of the refund process, and if so, how?
+
+7. Does Octopus provide customers with a clear breakdown showing how a refund figure has been derived?
+
+8. If such a breakdown is not routinely provided, under what circumstances would it be made available upon request?
+
+9. In this case, can Octopus provide a full calculation showing how the refund applied to my account was derived, including:
+   - usage assumptions
+   - tariff rates applied
+   - standing charges
+   - VAT
+   - any adjustments or credits applied
+
+========================
+END
+========================
+
+
+
+
+Patt 1 ---
+
+Up until summer 2025 all  readings used by Octopus for billing were estimates.
+
+These were based, according to statements on Annual Usage estimates for Gas:
+- min: XXXXX
+- max: XXXCC
+
+I presented the reading as a photograph to it was evidenced directly.
+
+The reason (taken on xxx) was Xxxxx.
+
+Octopus reading at this time was XZXX ***
+
+
+*** NB about App, Vs Bills Vs ..Actual meter.
+
+Being aware that we had been through very high rates per unit for Gas, I was concerned that the refund be calculated correctly, as it is highly unlikely that the 'underisage' would have occurred only at the point the. reading was taken.
+
+
+I made it clear up front and during the conversation flow on this matter that wanted to understand in serial how the refund was calculate.
+
+My concern was initially calmed  by email Xxx below (dated .. from xxxx singed XXX) - in which she stated that the rates for the  whole period of time I had been at Octopus would be taken into account.
+
+However later emails failed to explain how the refund was made, Octopus staff being 'unable' to get the information.
+
+The mechanism used to do the refund was - in my opinion - overly complicTed and took a considerable (5 or 6 hours over two days) amount of time to actually get to grips with.
+
+No explanation of any for was given as to how the refund mechanism woeked even. Certainly none was given to justify the rates used for the refund.
+
+To be clear at points I have been charged (refund rate in parenthesis)
+ 
+(XXX /kWh)
+(XXX /kWh)...
+
+--- part 3 ---+
+
+I therefore have been billed overall more than I was refuned, a situation which I am obviously happy with.
+
+Note again Octopus did assume me them would look at the range of values I had been charged. If they did this Llarently it was of no consequence for the value of the refund.
+
+Summarising I am concerned that:
+1) That the actions Octopus promised when I expressed my concerns were not honoured.
+2) that my requests for a transparent and open explanation of the refund process were ignored.
+3) that I was therefoee forced to spend a long period of time trying to actually work out the consulted process used to calculate the refund.
+4) That the gas rates used do not in any way reflect those uses when the overestimate was being generated, and 
+5) that I am therefore financially out of pocket to the order of XXXX.
+
+[ App values for meter readings now seem to resemble a sine wave. see
+values given ]
+red ###
+
+
+----
+could mention simple approach .... 
+overestimated units.
+spread over rates used in proportion to number units charged.
+calculate value.
+refund 
+single point readjustment of meter 'readimgs' across all mechanisms. (bills, alls etc).
+:---
