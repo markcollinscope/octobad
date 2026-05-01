@@ -1,5 +1,6 @@
-# Appendix XXX - Bills Involved in the Refund Calculation.
+# Appendix XXX - Details regarding the 'refund' processs
 
+## Bills involved in the 'refund' process
 Following are three bills.
 
 The bill detailing the refund:
@@ -9,7 +10,13 @@ The two bills *subsections* of ehich formed part of the 'refund spproach.'
 * octopus-energy-statement-2024-12-31 (partially-refunded-bill-1)
 * octopus-energy-statement-2025-03-29 (partially-refunded-bill-2).
 
+# Appendix # - Gas Readings in App - Explanation of How Up/Down Pattern Emerges
 
+This appendix shows - using a spreadsheet - how the App Gas Readings (and therefore the Octo- internal system(s)s) acquired the up/down readings pattern that is visible between 0ctober 2024 and June 2025 is the Gas Readings section of the Octopus Application.
 
+In this appendix:
+*   XXXTBD-screenshot of the Octopus App values for the aforementioned time period.
+*   XXX - Explanation spreadsheet.
+*   XXX - PDF output of XXXabove for inclusion in the report.
 
-
+See Appendix RefApxRefundAllBills for details of the bills refered to herein (XXX-MERGE)
