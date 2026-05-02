@@ -1,0 +1,4 @@
+
+t: target
+c: clean
+

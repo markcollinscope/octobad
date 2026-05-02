@@ -1,8 +1,5 @@
-INFRA := $(shell git root )/infra
-
-
-t: target
-c: clean
+INFRA := $(shell git root)/infra
+include ${INFRA}/oct-hd.mk
 
 GPDFS=010-Apx.pdf
 
@@ -15,19 +12,4 @@ ALLPDFS=${GPDFS} ${XPDFS}
 
 TPDF=000-ApxRefundBills.pdf
 
-### Generic Stuff
-
-${TPDF}: ${ALLPDFS}
-	pdf --cat ${ALLPDFS} -o ${TPDF};
-
-.md.pdf:
-	pan $<;
-	mv out.pdf $@;
-
-
-target: ${TPDF}
-clean: 
-	rm -f ${TPDF}
-	rm -f ${GPDFS}
-
-### ---
+include ${INFRA}/oct.mk
