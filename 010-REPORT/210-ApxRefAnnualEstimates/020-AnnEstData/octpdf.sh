@@ -14,6 +14,7 @@ eval $(boolopt --rem "<dir> <pdfs> Copy pg 2 of pdf(s) to <dir>" -2 TWO "$@");
 eval $(boolopt --rem "<dir> <pdfs> Run all the preceding operations in order shown" -a,--all ALL "$@");
 eval $(boolopt --rem "Convert name fmt: <2024-04-29.G-bill.pdf> -> <2024-04-29.pdf>" -n,--name NAME "$@");
 eval $(boolopt --rem "<dir> <pdf> View (the assumed pg 2) of the pdf in <dir> - as per -2 option" --v2 VIEW2 "$@");
+eval $(boolopt --rem "<dir> list the files in dir with their 'full' octopus energy email names" --full FULL "$@");
 
 mvToDateName()
 {
@@ -61,6 +62,18 @@ viewPgTwo()
     pdf -v $tdir/$pdf;
 }
 
+listFullOctoputNames()
+{
+    local tdir=$1;
+    local prefix=octopus-energy-statement-
+    (
+        cd $tdir;
+        for i in *; do 
+            echo $prefix$i;
+        done
+    )
+}
+
 main()
 {
     vbfnecho "$@";
@@ -92,6 +105,11 @@ main()
         shift;
         mkSplit "$@";
         doPgTwo $tdir "$@";
+        exitok;
+
+    elif $FULL; then
+        chkargcount -l 1 "$@";
+        listFullOctoputNames "$@";
         exitok;
 
     else
