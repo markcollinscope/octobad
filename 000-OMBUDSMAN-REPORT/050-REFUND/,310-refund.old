@@ -1,7 +1,11 @@
-# Account Overestimates and the Subsequent Refund Calculation
+# Account Overestimation and the Subsequent Refund Calculation
 
-The following sub-sections are used here:
-* Factual suppport information - details of any factual support relied up in subquent discussions.
+
+### Document For REAL Starts Here
+
+This secion of the document focuses on issues related to a refund by Octopus due to over-estiamation of gas usage since account inception. It is made up of the following sections:
+
+* Factual suppport information - details of any factual support relied up in subquent discussions. [ xxxgpt: this might sit better as the last section? ]
 * Background - general background information and history leading up the concerns presented
 * Supplementary questions - as put to Octopus - XXXStatus XXXDate.
 * Communications and dialogue - summary of email/other communications as relevent to concerns presented.
@@ -17,7 +21,7 @@ RefRefundBill follows. As can be seen it contains both a charges and refunds sec
 
 Specific points relevent here - the structural presentation of the information provided.
 
-!['refund bill' - page 1](800-images/010-RefundBillPage1.png){width=70%} 
+!['refund bill' - page 1](800-images/010-RefundBillPage1.png){width=50%}
 See ApxRefundBills for full details.
 
 ### unit rates in refund related bills
@@ -34,7 +38,7 @@ Specific points of relevence here:
 ### Octopus' annual gas estimates
 Octopus Energy present annual gas and electricity usage estimates in all bills:
 
-![annual estimates in Octoput bills](800-images/030-eg-annual-est-gas-bill.png){width=70%}
+![annual estimates in Octoput bills](800-images/030-eg-annual-est-gas-bill.png){width=50%}
 
 The following bullets summarise the *annual esimated gas usage* given by Octopus in bills across the four or so years they have managed the account. The presumption being these form the underlying basis for their *estimated gas readings* they generate in their gas bills.
 
@@ -136,15 +140,5 @@ HEREXXX
 
 ## Subsequent miscalculation of refund
 
-Appendix # - Octopus Own Annual Estimates 2022-2026
 
-This appendix shows Octopus' own estimates of annual gas usage. These are, it is understood, the basis upon which estimated bills were produced.
-
-With particular respect to the Refund Issue### it is  is a clear indication that the greatest bias with respect to over-estimates was in the earliest years (2022, 2023) of Octopus administration of the account. At this time rates rose to highs of around 16p per kWh (Govt. subsidies excluded) - and towering about the 6p refund value given.
-
-A refund calculation for of ### kWh of unconsumed gas should not be 
-
-clearly should not be calculated solely on the basis of a  six month, two bill period where costs were in the order of 6p/kWh) for their bloated account estimates.
-
-Tgis is clearly an unacceptable state of affairs.
-
+here -- here -- tbd gpt ... over to you ...
