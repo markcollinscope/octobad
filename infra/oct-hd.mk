@@ -1,4 +1,2 @@
 
-t: target
-c: clean
 
