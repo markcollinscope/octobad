@@ -1,11 +1,7 @@
-t: target
-c: clean
+INFRA := $(shell git root)/infra
 
-# INFRA := $(shell git root)/infra
+include ${INFRA}/oct-hd.mk
 
-%.pdf: %.md
-	pan --quiet $< 
-	mv out.pdf $@
 
 GENPDFS := 010-Apx.pdf
 
@@ -17,16 +13,5 @@ HARDPDFS := \
 ALLPDFS :=${GENPDFS} ${HARDPDFS}
 
 TARGET := 000-ApxRefundBills.pdf
-${TARGET}: ${ALLPDFS}
-	pdf --cat ${ALLPDFS} -o ${TARGET};
 
-target: ${TARGET}
-
-### ---
-
-# include ${INFRA}/oct-hd.mk
-# include ${INFRA}/oct.mk
-
-clean: 
-	rm -f ${TARGET}
-	rm -f ${GENPDFS}
+include ${INFRA}/oct.mk
