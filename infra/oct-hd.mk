@@ -3,6 +3,6 @@ t: target
 c: clean
 
 %.pdf: %.md
-	pan --quiet $< 
+	sed -f $(INFRA)/subst.sed < $< > /tmp/sed.out
+	pan --quiet /tmp/sed.out
 	mv out.pdf $@
-

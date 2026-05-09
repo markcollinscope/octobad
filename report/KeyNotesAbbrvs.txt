@@ -1,0 +1,107 @@
+Octopus Reference: 2043241  
+Account Number: A-A7CD64F4  
+My References (Complaints):  
+Octo.2026.3.1  
+Octo.2026.3.2  
+Octo.2026.3.3  
+
+--- checks ...
++ 1 year ago - errors now.
+
+
+---
+
+--- eg
+##  SecName
+### Summary
+### Details
+#### Structure and Presentation of the Refund
+#### Lack of Explanation and Support
+#### Refund Valuation and Unit Rates
+#### App Data and System Effects
+### Outstanding Questions Ignored By Octopus
+### Customer Impact
+### Complaint Points
+### Resolution Sought
+### Appendices Referenced
+---
+
+110-SecAvro
+120-SecDD-TBD
+130-SecRefund
+---
+210-ApxAvroBill
+220-ApxLetterAvroBill
+---
+410-ApxRefundBills
+    Refunded1
+    Refunded2
+    RefundRebill
+420-ApxRefundEmails
+430-ApxAnnualEstimates
+440-ApxAppGasReadingsUpDown
+420-ApxRefundEmails
+430-ApxAnnualEstimates
+440-ApxAppGasReadingsUpDown
+
+NOTES <WIP SECTION>
+710 - Could be used to show number of days per different rates shown. TBC. May Be Useful.
+
+----  CHECKLIST 
+
+Avro
+
+ev: bill emails.
+bg: ...
+key pts:
+- credit val
+- arbitrary amt deducted
+- put back  me nov 24
+- treated side issue
+- left to drift ...
+- any FC
+
+----
+seeking - do calc.
+- credit for bill
+- reversal onto acct + 8% pa
+- recognise prejudiced all ollowed
+- 250
+
+----- DD
+bg:
+- 108 ...
+- 180 ...
+- *** complaint
+- 300
+- - kept on.. i refused...
+- 
+
++ take without authority x 2.1
+
+ev: emails
+timeline: emails
+
+compensation: 
+- abuse take 200
+- endless pressure to this day - 300
+- rerurn to fixed dd. comtractual argmnt - double return.
+
+--- FC --- 
+ev: emails
+- made ingore chain.
+- timeline.
+
+sought: 150 ignoring.
+
+-----
+refund- full rework @ x1.5 -> 500
+woek to woek out 400.
+
+--- Big picture...
+
+compounding.
+ignoring.
+profiteerimg.
+absubing.
+
