@@ -109,3 +109,6 @@ SubstSpecficallySent
 * Refund/crediting of monies taken account with due cause: the whole of the Avro bill value + the implied customer credit that can be seen using the Avro bill's internal accounting conventions. Or  XXXX-a damn good reason why not-that stands up to a balance of proabilities test.
 * A recalculation of the running balance of the account takin the above into account (and other items raised in this account) and interest payments at 8% non-cumulative statutory rates for any positive balance for it's full duration.
 * Compensation for the time it took in initially raising the bill to Octopus and the subsequent necessity of re-address the whole matter during this complaint process: 150.00
+
+
+
