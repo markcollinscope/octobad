@@ -2,122 +2,113 @@
 
 ### Summary
 
-Octopus took over my account following the collapse of Avro Energy. At the time I was not following developments in the energy market and had no real understanding of the supplier transfer process. From the customer perspective, Octopus simply appeared and began contacting me regarding direct debits and account management.
+Octopus took over my account around September, 2021. The first I heard of their involvement  was when I received emails relating to direct-debit setup. I had not been following the ongoing demise of various energy companies so was unaware it was going to happen.
 
-Initially this caused confusion and some concern, but I attempted to proceed pragmatically and assumed the transfer process was legitimate and understood internally by Octopus.
+Towards the end of the third quarter of 2022 I become concerned over the level of amount I apparently owed. 
 
-The situation became significantly more serious towards the end of 2022 when I became concerned at the level of apparent debt accumulating on the account despite my following Octopus’ recommended direct debit guidance.
+Checking back I reviewed the Avro Bill and was suprised to find it make absolutely no sense. Please see the full details in ApxAvroBill.
 
-When I revisited the inherited Avro bill, I was extremely surprised to discover that the internal figures within the bill appeared logically inconsistent and did not support the headline debit figure being claimed.
+The bill itself bill claimed an overall debit balance of over 1124.93 - however the internal data did not support this. A running balance of -768.66 (note the minus) when combined with new charge of 87.24 (note the implied +) and my payment of -269.03 (note the minus) clearly do not sum up to 1124.93.
 
-Please see full details in ApxAvroBill.
+### Details
+#### Summing the Totals and Payments
+The contents of the bill - if summed in the logical manner - yield the following calculation:
 
-The bill claimed a debit balance of £1124.93. However, the figures presented within the bill appeared to indicate something entirely different.
-
-### The Avro Bill
-
-The Avro bill internally contained the following figures:
-
--768.66  Previous balance
-  87.24  New charges
--269.03  Payments received
-
-Using the signs and accounting conventions presented within the bill itself, these figures do not logically produce a debit balance of £1124.93.
-
-The total only appears obtainable by summing the absolute values of all figures irrespective of sign:
-
-768.66
- 87.24
-269.03
+```
+-768.66 - Previous balance (minus sign)
+  87.24 - New charges (implied plus sign)
+-269.03 - Payments received (i.e. I paid them - minus sign)
 -------
-1124.93
+-950.45 - Summed total using the signs presented.
+```
 
-This appeared nonsensical to me at the time and remains so now.
+This clearly not correspond to the apparent debit balance of 1124.93
 
-### Customer Impact
+#### Where does 1124.93 come from?
 
-At this point I became extremely concerned regarding the apparent state of my account.
+The alleged debit balance can be attained by summing the absolute values of all consituant balances/payments/debits - i.e. 768.66 + 87.24 + 269.03 = 1124.93.
 
-A later Octopus bill summary showed a balance in excess of £1600 despite my continuing to make the recommended direct debit payments.
+This is clearly a nonsensical way to deal with credits and debits in a financial calculation.
 
-Had I understood at the time that this figure did not even include the disputed Avro position, I would have found the situation even more alarming.
+#### Bringing it to Octopus attention
 
-Large unexplained balances are not experienced by customers as abstract accounting issues. They are experienced as immediate financial threat signals.
+I raised this matter in an email letter (see full details in ApxLetterAvroBill). It is fair to say that at this point I was completely confused as to the state of my account, and concerned at the amount the account had apparently gone into debt - a following (editited for brevity) email fragment shows:
 
-### Raising the Matter with Octopus
+(a bill summary from 10th November 2022 - 27th November 2022) showed a debit balance of £1614.13 - despite my paying Octopus recommended DD. Had I realised at the time that this did *not* include the Avro balance I would have been mortified).
 
-I raised the matter formally with Octopus by email (see ApxLetterAvroBill).
+XXX-GPT-Show a bill with Avro tucked at the back.  XXX-Raise the issues of the Avro refund/debit whatever they called it? XXX
 
-At this stage I was:
-- confused regarding the true account position,
-- concerned regarding the rapidly increasing apparent debt,
-- and expecting a professional supplier to provide a clear written explanation of what had happened.
+#### The Avro Balance 
 
-I believed the issue was sufficiently serious that it would result in:
-- a formal written explanation,
-- a clear breakdown of the account position,
-- and a properly documented route forward.
+I believe I had a telephone conversation with Octopus support - and recall not being at all happy with the explantation I received. However, and that point lacking facts details and any real understanding of how energy companies operated , I decided to wait for a formal letter from Octopus. I assumed I would receive a written explanation what had happened and their proposed route forward. 
 
-This did not happen.
+I did not nor have I since received any written explanation of what exactly was going on with this bill. What I did get - as an almost aside in an email on wider subject matters was this:
 
-### Octopus’ Response
+```
+(fragment taken from email)
+Hi Mark,
 
-Instead, the only substantive indication that anything had been altered came almost incidentally within a later wider email exchange:
+Thanks for your reply.
 
-“One of our colleagues, Becks, previously corrected the Avro balance by applying a credit of £831.49…”
+One of our colleagues, Becks, previously corrected the avro balance by applying a credit of £831.49 this reduced the balance that was transferred to us from -£1,124.93 to -£293.44 ... (snip).
 
-This was effectively the sum total of the formal explanation provided regarding:
-- how the original balance arose,
-- why it had been partially corrected,
-- why a residual balance remained,
-- or how the revised figures had been calculated.
+```
 
-No detailed written reconciliation was ever provided.
+this was the sum 'formal' notification I got that anything had been done.
 
-### The Revised Avro Position
+#### Further information
 
-The application of a substantial corrective credit strongly reinforced my concern that the original inherited balance was unreliable.
+A final point - it was clear from Octopus emails to me that they had no clue what was going on in the Avro bill. As I had made the issues crystal clear - they could not just ignore the issue - and the result was a number being applied as a credit to the total. XXXX tbd.
 
-However, despite this major correction:
-- the residual balance continued to be treated as a debt,
-- collection pressure continued,
-- and no proper explanation was provided as to how the revised figures had been derived.
+#### The Avro Balance - Revisited
 
-From the customer perspective this created an extremely difficult position:
-- the original figures appeared unreliable,
-- Octopus themselves appeared to partially acknowledge this,
-- yet the account continued operationally as though the remaining balance was unquestionably valid.
+if one examines the accounting conventions used in this bill, another picture becomes very plausable:
+* charges - money *owed by the customer to Avro* (£87.24) have an (implied) +ve (positive) sign.
+* payments - money *paid by the customer to Avro* (-269.03) have an explicit -ve (negative) sign.
 
-### Re-Examining the Accounting Convention
+Using this convention - which appears to be the one used by Avro:
+* The starting point for the bill was that I was in credit: £768.66
+* That charges of £87.24 should be deducted from that balance, and
+* That my payment of £269.03 should be added to that balance
 
-Having now revisited the bill in detail during this complaint process, another interpretation appears substantially more plausible.
+Leaving me with a credit balance of £949.45. This is a far more credible interpretation than Octopus' automatic assumption of 'debit it is.' and it the absence of contrary evidence I suggest this is how the bill should now be viewed.
 
-Within the bill:
-- charges owed by the customer appear positive,
-- payments made by the customer appear negative.
+(see ApxAvroBill - where this interpretation is backed up with full details - including the bill itself).
 
-Using this convention consistently, the bill appears to indicate that the account was actually in substantial credit rather than debit.
+#### The Avro Balance - Final Deduction
 
-This interpretation is explained in full within ApxAvroBill.
+Avro took money from my account in Nov-24 to cover the apparenly in-hiding £293.44 they decided could somehow be justified from the bill. I was not consulted with respect to this, nor do I agree with it. This money should certainly be refunded immeidately - after which the customer credit balance can be restored.
 
-### Ongoing Concern
+### Commplaint Points
 
-One of the most difficult aspects of this issue has been the absence of clear closure.
+1. How this bill was allowed - given it was clearly logically inconsistent - to get onto Octopus system in the first place. How did it remain there for over a year and why was it left to me - the customer - to be the one to have to raise a concern.
+2. Why has not written explanation ever been given as to Octopus of this bill. Why did Octopus not understand that any customer would be concerned at such a piece of nonsense being given credance by a 'professional energy supplier'?
+3. Why given it's nonsensical contents was it still given credance by Octopus - allbeit to a lesser value - at all.
+4. Why did Octopus not examine the the accounting conventions clearly used (minus for customer payment, plus for supplier charge) and interpret it as a customer credit. Why was the debit assumption just assumed?
+5. Why was the whole matter just brushed aside as soon as possible with as little detail as possible being revealed.
+6. Why was written agreement over a final way forward not sought - subject to all options being explored?
+7. Why have Octopus refused to explain - initially and again during this process - where their 'account adjustment' of £831.49 actually came from.
+8. Why have Octopus - yet again - failed to engage and assist a customer in understanding what is actually going on with their account?
 
-The issue appeared to drift operationally into the background without ever receiving a proper written explanation or resolution.
+### SubstSupplementary
 
-Over time I gradually assumed the matter had likely been internally resolved or absorbed into the wider running of the account.
+SubstSpecficallySent
 
-It was only much later, when revisiting the account history in detail during this complaint process, that the scale and persistence of the unresolved Avro issue became fully apparent again.
+* AVRO.SQ1 - Please provide a detailed breakdown of how the corrective credit of £831.49 applied to my account was calculated, including the underlying units, rates, billing periods and any adjustments applied.
 
-### Core Complaint Points
+* AVRO.SQ2 - Please explain the basis on which the Avro balance continued to be treated as a debt following the application of a substantial corrective credit, including the account balance position before and after the adjustment.
 
-1. Why was a bill containing such apparent logical inconsistencies accepted onto my account without clearer validation or explanation?
+* AVRO.SQ3 - Please describe the verification and due diligence performed on the Avro balance prior to its application to my account, including what checks were carried out, what data was relied upon, and whether any validation against underlying billing records was performed.
 
-2. Why was no proper written reconciliation or explanation ever provided despite the issue being formally raised?
+* AVRO.SQ4 - Please describe the formal mechanism by which the Avro account was transferred to Octopus,including the data sources used, the format of the data received, and whether any reconciliation or transformation was applied before it was incorporated into my account.
 
-3. Why was a substantial corrective credit applied without a corresponding detailed explanation of how the revised figures were derived?
+* AVRO.SQ5 -  Please explain the basis on which the residual balance of £293.44 was added to my account in November 2024, including what triggered this entry at that time, what period it relates to, and how the amount was calculated.
 
-4. Why did Octopus continue to treat the residual balance as unquestionably valid despite the apparent unreliability of the original inherited figures?
+### Restitution Sought
 
-5. Why did the issue repeatedly appear to drift operationally onward without achieving clear substantive closure from the customer perspective?
+* Refund/crediting of monies taken account with due cause: the whole of the Avro bill value + the implied customer credit that can be seen using the Avro bill's internal accounting conventions. Or  XXXX-a damn good reason why not-that stands up to a balance of proabilities test.
+* A recalculation of the running balance of the account takin the above into account (and other items raised in this account) and interest payments at 8% non-cumulative statutory rates for any positive balance for it's full duration.
+* Compensation for the time it took in initially raising the bill to Octopus and the subsequent necessity of re-address the whole matter during this complaint process: 150.00
+
+
+
